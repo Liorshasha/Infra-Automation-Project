@@ -205,7 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 <<<<<<< HEAD
+<<<<<<< HEAD
 __marimo__/
 =======
 __marimo__/
 >>>>>>> ba9ae98 (t)
+=======
+__marimo__/
+>>>>>>> ba9ae988ddac151594b3a7f4a6ac40db3c812026
